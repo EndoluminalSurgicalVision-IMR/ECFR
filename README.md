@@ -72,8 +72,8 @@ The paper evaluates medical foundation models and public medical image datasets.
 | --- | --- |
 | Ark / Ark+ | https://github.com/JLiangLab/Ark |
 | DermLIP / Derm1M | https://github.com/SiyuanYan1/Derm1M |
-| Mendeley chest X-ray dataset | https://data.mendeley.com/datasets/rscbjbr9sj/2 |
-| Daffodil skin disease dataset | https://data.mendeley.com/datasets/3hckgznc67/1 |
+| Kermany OCT/CXR dataset (Mendeley v2; CXR subset used) | https://data.mendeley.com/datasets/rscbjbr9sj/2 |
+| Daffodil / Skin Disease Classification Dataset | https://data.mendeley.com/datasets/3hckgznc67/1 |
 | HAM10000 | https://doi.org/10.1038/sdata.2018.161 |
 
 Large datasets, checkpoints, logs, and generated results should not be committed to Git.
